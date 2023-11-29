@@ -1,4 +1,4 @@
-# Rune - A to-do list and kanban board creator
+# 🌅 Rune - A to-do list and kanban board creator
 
 A simple task management interface. 
 
