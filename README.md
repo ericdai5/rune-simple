@@ -4,18 +4,17 @@ A simple task management interface.
 
 ### Features:
 
-Write down items.
-Add new columns for grouping items.
-Drag to reorder items within columns, and reorder the columns themselves.
-Customize item appearance, including the option to display items with checkboxes.
-Toggle between light mode and dark mode.
-Data is saved locally in the browser.
+- Add new columns for grouping items. 
+- Drag to reorder items within columns, and reorder the columns themselves.
+- Customize item appearance, including the option to display items with checkboxes.
+- Toggle between light mode and dark mode.
+- Data is saved locally in the browser.
 
 ### Tools:
 
-Typescript
-HTML/CSS
-Next.js
-Redux
-Redux-persist
-Hello-pangaea/dnd
+- Typescript
+- HTML/CSS
+- Next.js
+- Redux
+- Redux-persist
+- Hello-pangaea/dnd
