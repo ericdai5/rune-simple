@@ -79,7 +79,7 @@ const Column: React.FC<ColumnProps> = ({ columnId, index }) => {
                 }}
           />
           {/** on hover over the parent card a button appears*/}
-          <div className="opacity-30 group-hover/card:opacity-100">
+          <div className="opacity-0 group-hover/card:opacity-100">
             <div className="flex flex-row space-x-1">
           <Button variant="ghost" size="iconsmall"
             onClick={addBlockHandler}
