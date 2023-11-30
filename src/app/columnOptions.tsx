@@ -45,7 +45,7 @@ import {
       <>
         <DropdownMenu>
           <DropdownMenuTrigger asChild>
-            <Button variant="none" size="iconsmall">
+            <Button variant="ghost" size="iconsmall">
             <MoreHorizontal className="h-5 w-5" />
             </Button>
           </DropdownMenuTrigger>
